@@ -37,15 +37,12 @@ npm install
 npm start
 ```
 
-4. Open your browser and navigate to `http://localhost:3000` to view the landing page.
+4. Open your browser and navigate to `https://nikel09.netlify.app/` to view the landing page.
 
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
